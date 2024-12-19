@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/baskaev/db/datab"
+	"github.com/baskaev/FILMS_GO_REACT_DOCKER/db/datab"
 	"github.com/go-rod/rod"
 	"github.com/go-rod/rod/lib/launcher"
 )

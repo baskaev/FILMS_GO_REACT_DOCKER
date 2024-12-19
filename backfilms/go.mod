@@ -3,7 +3,7 @@ module backfilms
 go 1.23.4
 
 require (
-	github.com/baskaev/db v0.0.18
+	github.com/baskaev/FILMS_GO_REACT_DOCKER/db v0.0.4
 	github.com/labstack/echo/v4 v4.13.0
 )
 

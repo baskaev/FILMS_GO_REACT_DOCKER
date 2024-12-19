@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/baskaev/db/datab"
+	"github.com/baskaev/FILMS_GO_REACT_DOCKER/db/datab"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 )

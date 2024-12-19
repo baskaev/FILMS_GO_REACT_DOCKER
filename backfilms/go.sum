@@ -1,5 +1,5 @@
-github.com/baskaev/db v0.0.18 h1:mXK2dTSKvC/deGrqGxE18AB9DGCiYbQ6dQdOPtGDZ6w=
-github.com/baskaev/db v0.0.18/go.mod h1:tpebtcCEETffH+am+pXtXe1SNJUdyUw9B86W98YIO2s=
+github.com/baskaev/FILMS_GO_REACT_DOCKER/db v0.0.4 h1:SBmlfwx7EqvhMcY4Dl0GqIw4rn4KaSQyd73kSjIaEbw=
+github.com/baskaev/FILMS_GO_REACT_DOCKER/db v0.0.4/go.mod h1:fNr7OTZPdddqVXgzMnNcVQn24n7bWdDiM48a1/NENQo=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/labstack/echo/v4 v4.13.0 h1:8DjSi4H/k+RqoOmwXkxW14A2H1pdPdS95+qmdJ4q1Tg=
