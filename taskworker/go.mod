@@ -3,7 +3,7 @@ module taskworker
 go 1.23.4
 
 require (
-	github.com/baskaev/db v0.0.18
+	github.com/baskaev/FILMS_GO_REACT_DOCKER/db v0.0.3
 	github.com/go-rod/rod v0.116.2
 )
 
