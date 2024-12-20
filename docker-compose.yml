@@ -37,7 +37,8 @@ services:
 
   frontend:
     build:
-      context: ./vue-frontend
+      # context: ./vue-frontend
+      context: ./frontend-react
     ports:
       - "8080:80"
     networks:
